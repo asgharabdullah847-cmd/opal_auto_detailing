@@ -38,3 +38,5 @@
 .review-card strong{font-size:11px;letter-spacing:1px;color:#fff;text-transform:uppercase}
 @keyframes reviewScroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 @media(max-width:600px){.review-card{width:285px}.reviews-track{animation-duration:34s}}
+.messenger{background:#0866ff}
+.whatsapp{position:fixed;right:20px;bottom:90px;width:56px;height:56px;background:#25D366;border-radius:50%;display:grid;place-items:center;z-index:30;box-shadow:0 7px 25px #0009;border:3px solid #fff2}
